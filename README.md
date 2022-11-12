@@ -1,3 +1,4 @@
+![logo](https://github.com/sayyedgulzar/sayyedgulzar/blob/main/Black%20Blue%20Modern%20Tips%20Trick%20Learn%20Website%20Programming%20YouTube%20Thumbnail%20(1).png)
 <h1 align="center">Hi 👋, I'm Sayyed Gulzar Ahmed</h1>
 <h3 align="center">A Passionate Full Stack Backend & Frontend Developer from India</h3>
 
