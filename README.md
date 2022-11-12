@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sayyed Gulzar Ahmed</h1>
 <h3 align="center">A Passionate Full Stack Backend & Frontend Developer from India</h3>
 
-<img align="right" alt="coding" width="500" src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&psig=AOvVaw3lmyO4Hb49GxcwJYkj9jwl&ust=1668333430513000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjLxYKxqPsCFQAAAAAdAAAAABAX">
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayyedgulzar&label=Profile%20views&color=0e75b6&style=flat" alt="sayyedgulzar" /> </p>
 
